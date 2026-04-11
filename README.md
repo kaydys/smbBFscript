@@ -1,5 +1,5 @@
 # smbBFscript
-Easy bash script to brute force smb shares with anon or null auth allowed.
+Easy bash script to discover smb shares with anon or null auth allowed using bruteforce.
 
 ### Disclaimer
 ⚖️ Activities must be for educational, professional, or lawful security improvement purposes.
